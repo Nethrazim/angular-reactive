@@ -230,3 +230,5 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/angular-reactive-training/angular-reactive-training/ClientApp/.angular/cache/14.1.3/angular-webpack
+/angular-reactive-training/angular-reactive-training/ClientApp/.angular/cache/14.1.3/babel-webpack
